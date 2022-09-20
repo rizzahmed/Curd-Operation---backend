@@ -1,0 +1,8 @@
+{
+    "Connetion":{
+        "host": "localhost", 
+        "user": "root",                 
+        "password": "your_workbench_password",            
+        "database": "your_database" 
+    }
+}
